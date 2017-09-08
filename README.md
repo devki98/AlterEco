@@ -1,6 +1,6 @@
 # AlterEco
 
-![alt text](https://raw.githubusercontent.com/devki98/AlterEco/homepage.png) 
+![alt text](https://raw.githubusercontent.com/devki98/AlterEco/homepage-altereco.png) 
 
 This is an application to sort waste items that uses the jquery library. 
 For the database, Google Sheets is used 
