@@ -1,5 +1,5 @@
 # AlterEco
-
+![ScreenShot](https://raw.githubusercontent.com/devki98/AlterEco/master/altereco-homepage.jpg)
 This is an application to sort waste items that uses the jquery library. 
 For the database, Google Sheets is used 
 The user can input a waste item of his/her choice and the program will output the correct waste bin as well as some specifications 
